@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Repositorio de Prueba Precourse
+Repositorio de como crear un repositorio en Git ub y clonarlo a mi escritorio
